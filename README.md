@@ -1,6 +1,6 @@
 # Fraudulent Job Posting Detection
 
-> Academic Project · Introduction to Pattern Recognition · University at Buffalo  
+> Academic Project · Data Intensive Computing · University at Buffalo  
 > **Team:** Anirudh Mhaske · Dhiraj Patil · Vidit Rajesh Prabhu · Hemasree Pujari
 
 ---
